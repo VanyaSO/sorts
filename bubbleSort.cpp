@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // comments
     const int SIZE = 5;
     int arr[SIZE] = {7,1,8,6,3};
 
